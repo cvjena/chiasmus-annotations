@@ -1,5 +1,17 @@
-# Chiasmus Annotations
+# German Chiasmus Dataset
 
-This is the data for paper Data-Driven Detection of General Chiasmi Using Lexical and Semantic Features presented at the SIGHUM workshop at the EMNLP 2021.
+# Introduction
 
-You're probably here from the QR code on the poster - the code will be available soon. If you have questions about the paper/poster/code/... just send me a mail to felix.schneider [at] uni-jena.de
+This is the dataset for the paper *Hard is the Task, the Samples are Few*.
+
+The data can be found in the data subfolder and is in the json file format.
+
+# Examples
+
+| Der Reiche setzt eher sein [Leben] für seinen [Reichtum] als seinen [Reichtum] für sein [Leben] aufs Spiel.
+| The rich one will would rather risk his [life] for his [riches] than his [riches] for his [life].
+
+
+# Cite
+
+soon
