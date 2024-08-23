@@ -15,4 +15,14 @@ The data can be found in the data subfolder and is in the json file format.
 
 ## Cite
 
-soon
+```
+@inproceedings{schneider2023hard,
+    title = {Hard is the Task, the Samples are Few: A German Chiasmus Dataset},
+    author = {Felix Schneider and Sven Sickert and Phillip Brandes and Sophie Marshall and Joachim Denzler},
+    booktitle = {Human Language Technologies as a Challenge for Computer Science and Linguistics},
+    year = {2023},
+    address = {Poznan, Poland},
+    pages = {255-260},
+    doi = {10.14746/amup.9788323241775},
+}
+```
